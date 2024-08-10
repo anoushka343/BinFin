@@ -1,4 +1,4 @@
-# bin_fin
+# Taco Truck NFT Marketplace
 
 A new Flutter project.
 
